@@ -194,7 +194,7 @@ function loop() {
 }
 
 const badGuy = new EvilCircle(random(0, width), random(0, height));
-count = 2;
+count = 25;
 
 
 generateBalls(count);
