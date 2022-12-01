@@ -2,4 +2,4 @@
 since a given time.
 </h1>
 
-<p>Simply type npm install and then npm start!</p>
+<p>Simply type 'npm install' and then 'npm start'!</p>
