@@ -14,35 +14,28 @@ body {
 }
 
 .app {
-  width: 90%;
-  max-width: 43rem;
-  padding: 1rem;
+  width: 80%;
+  max-width: 40rem;
+  padding: 1.5rem;
+  padding-top: 1rem;
   border-radius: 12px;
   background-color: white;
-  margin: 3rem auto;
+  margin: 4rem auto;
 }
 
-input {
-  margin-right: 20px;
-  height: 30px;
-}
 
-button {
-  font: inherit;
-  height: 30px;
-  background-color: #b7a6df;
-  color: rgb(0, 0, 0);
-  border: 1px solid #240370;
-  /* padding: 0.5rem 1.5rem; */
+button {  
+  background-color: #5331a2;
+  color: rgb(255, 255, 255);
   border-radius: 4px;
   cursor: pointer;
   margin-left: 10px;
-  padding-bottom: 0;
-}
+  width: 80px;
+} 
 
 button:hover,
 button:active {
-  background-color: #5331a2;
+  background-color: #8858f0;
   border-color: #33059e;
   color: antiquewhite;
 }
